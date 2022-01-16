@@ -12,10 +12,4 @@
 			<reason>The quotes are due to many continuous run-on paragraphs.</reason>
 		</ignore>
 	</file>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>m-033</code>
-			<reason>Seems to be an error in lint.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
