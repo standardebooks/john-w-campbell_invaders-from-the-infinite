@@ -6,7 +6,7 @@
 			<reason>Italic semantication to match original quoted semantication, including capitalized "The".</reason>
 		</ignore>
 	</file>
-	<file path="chapter-21.xhtml">
+	<file path="chapter-25.xhtml">
 		<ignore>
 			<code>t-003</code>
 			<reason>The quotes are due to many continuous run-on paragraphs.</reason>
