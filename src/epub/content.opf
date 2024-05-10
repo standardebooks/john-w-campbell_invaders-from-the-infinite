@@ -43,7 +43,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20154</dc:source>
 		<meta property="se:word-count">65298</meta>
-		<meta property="se:reading-ease.flesch">72.16</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Invaders_from_the_Infinite</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-w-campbell_invaders-from-the-infinite</meta>
 		<dc:creator id="author">John W. Campbell</dc:creator>
