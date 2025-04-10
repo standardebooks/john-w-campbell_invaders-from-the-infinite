@@ -47,7 +47,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Invaders_from_the_Infinite</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-w-campbell_invaders-from-the-infinite</meta>
 		<dc:creator id="author">John W. Campbell</dc:creator>
-		<meta property="file-as" refines="#author">Campbell, John Wood</meta>
+		<meta property="file-as" refines="#author">Campbell, John W.</meta>
 		<meta property="se:name.person.full-name" refines="#author">John Wood Campbell Jr.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_W._Campbell</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81063251</meta>
