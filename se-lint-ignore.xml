@@ -2,6 +2,8 @@
 <se-lint-ignore>
 	<file path="chapter-25.xhtml">
 		<ignore code="t-003">
+			<line>74</line>
+			<line>76</line>
 			<reason>The quotes are due to many continuous run-on paragraphs.</reason>
 		</ignore>
 	</file>
